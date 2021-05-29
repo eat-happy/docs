@@ -1,5 +1,5 @@
 module.exports = {
-    base:'/',
+    base:'/docs/',
     themeConfig: {
         lastUpdated: '上次更新',
         logo: '/蜡笔小新.jpeg',
