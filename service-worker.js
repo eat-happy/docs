@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d28c4f73a1e1b1c62d6e59653f42e501"
+    "revision": "039c0d8297130bc3be0786b37815317d"
   },
   {
     "url": "about/index.html",
-    "revision": "f2a5c354055b422f8200b0d100281cba"
+    "revision": "9cd423ffbe0f4a7da90aa4626e5a4ca8"
   },
   {
     "url": "assets/css/0.styles.60fe18b8.css",
@@ -74,12 +74,12 @@ self.__precacheManifest = [
     "revision": "4be527f7fd93f1845c98f22815871c02"
   },
   {
-    "url": "assets/js/9.d60b1177.js",
-    "revision": "bf87d9b13a84f1a593feeaf0f275d523"
+    "url": "assets/js/9.e01d4f42.js",
+    "revision": "71904c69628799b5e33504ee27895300"
   },
   {
-    "url": "assets/js/app.0ff63561.js",
-    "revision": "5d9b6e35aac40577cb0bab3f1285021b"
+    "url": "assets/js/app.211bd989.js",
+    "revision": "0e9a9f2d23aed92d92f00105b9c37376"
   },
   {
     "url": "icon-192x192.png",
@@ -99,7 +99,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e30e1d1a9163edb8911a889e6c731b1d"
+    "revision": "7b25ff36d6468f8d6f4b95a123f65403"
   },
   {
     "url": "蜡笔小新.jpeg",
