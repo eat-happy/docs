@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "877a4b6b24555bef45d1811227c2ed62"
+    "revision": "d28c4f73a1e1b1c62d6e59653f42e501"
   },
   {
     "url": "about/index.html",
-    "revision": "4ebf3f7cf5a8de7fc746808a922cc935"
+    "revision": "f2a5c354055b422f8200b0d100281cba"
   },
   {
     "url": "assets/css/0.styles.60fe18b8.css",
@@ -78,8 +78,8 @@ self.__precacheManifest = [
     "revision": "bf87d9b13a84f1a593feeaf0f275d523"
   },
   {
-    "url": "assets/js/app.f40b40eb.js",
-    "revision": "17d29c137623ab4c86ded4863777d5fa"
+    "url": "assets/js/app.0ff63561.js",
+    "revision": "5d9b6e35aac40577cb0bab3f1285021b"
   },
   {
     "url": "icon-192x192.png",
@@ -99,7 +99,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "ca4337a7e7d622fab5e7b26768f71ead"
+    "revision": "e30e1d1a9163edb8911a889e6c731b1d"
   },
   {
     "url": "蜡笔小新.jpeg",
