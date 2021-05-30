@@ -42,19 +42,39 @@ module.exports = {
 
     },
     plugins: [
-       [ '@vuepress/pwa', {
-           serviceWorker: true,
-           updatePopup: true
-       }],
-            [
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'G-55Q17EWT5P' // UA-00000000-0
+            }
+        ],
+        '@vuepress/nprogress',
+        '@vuepress/back-to-top',
+        ['@vuepress/pwa', {
+            serviceWorker: true,
+            updatePopup: true
+        }],
+        [
             '@vuepress/last-updated',
-                {
-                    transformer: (timestamp, lang) => {
-                        // 不要忘了安装 moment
-                        const moment = require('moment')
-                        moment.locale(lang)
-                        return moment(timestamp).fromNow()
-                    }
+            {
+                transformer: (timestamp, lang) => {
+                    // 不要忘了安装 moment
+                    const moment = require('moment')
+                    moment.locale(lang)
+                    return moment(timestamp).fromNow()
                 }
-            ]]
+            }
+        ],
+        ['@vssue/vuepress-plugin-vssue', {
+            // 设置 `platform` 而不是 `api`
+            platform: 'github-v4',
+            // 其他的 Vssue 配置
+            owner: 'eat-happy',
+            repo: 'docs',
+            clientId: '5a212d3c7aa3fa22f545',
+            clientSecret: 'bbc1ed584209b2ec34b3c7e15ca633a65e6cbaef',
+            autoCreateIssue: true
+        },]
+
+    ]
 }
