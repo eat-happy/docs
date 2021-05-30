@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "cname": ". cname.sh"
+    "cname": "bash cname.sh"
   },
   "repository": {
     "type": "git",
