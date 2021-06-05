@@ -42,6 +42,7 @@ module.exports = {
 
     },
     plugins: [
+        '@vuepress/medium-zoom',
         [
             '@vuepress/google-analytics',
             {
