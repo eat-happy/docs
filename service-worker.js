@@ -27,59 +27,63 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "039c0d8297130bc3be0786b37815317d"
+    "revision": "3b8bd6daadaf050ebbce442ecd57c22f"
   },
   {
     "url": "about/index.html",
-    "revision": "9cd423ffbe0f4a7da90aa4626e5a4ca8"
+    "revision": "af8af1af099085f6688b8962e03efba5"
   },
   {
-    "url": "assets/css/0.styles.60fe18b8.css",
-    "revision": "819468d781b850be302d16d9948b4835"
+    "url": "assets/css/0.styles.98a134e8.css",
+    "revision": "87a5dee485ffc5ba7e6908895d56f308"
+  },
+  {
+    "url": "assets/img/icon-192x192.7732d41c.png",
+    "revision": "7732d41cb0720c77f2f0d503486ec1ab"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.cccba81b.js",
-    "revision": "238b1b338763eac0f27edcc342fa265f"
+    "url": "assets/js/10.6950337f.js",
+    "revision": "5af4a6f229036eda23f4dc2f6d45fb2d"
   },
   {
-    "url": "assets/js/2.60c071e5.js",
-    "revision": "29db0d5debe32e7daa208bdc524872c5"
+    "url": "assets/js/2.9ba2f53d.js",
+    "revision": "1db10ece0c9947d83d5e14c75cc84692"
   },
   {
-    "url": "assets/js/3.d3582936.js",
-    "revision": "4dc2cc0b60d53eb9b0370773284de4c7"
+    "url": "assets/js/3.331a149d.js",
+    "revision": "c580976d6ef5a0051fb679eef831f75e"
   },
   {
-    "url": "assets/js/4.cb0ac3a0.js",
-    "revision": "69135953a558f66590faac7259888bc0"
+    "url": "assets/js/4.f5192db4.js",
+    "revision": "cdb00f44854e3302b212e9952ec09491"
   },
   {
-    "url": "assets/js/5.9ef6899b.js",
-    "revision": "4441ff4f5e8b7582019ff66388e65200"
+    "url": "assets/js/5.556cbecf.js",
+    "revision": "018c78f4042f96a2be61e0f1ea189c70"
   },
   {
-    "url": "assets/js/6.1438d0b6.js",
-    "revision": "8f3370a8211a1dc10d434bf44b54c433"
+    "url": "assets/js/6.a30bfbd4.js",
+    "revision": "73a79be1bcd67c9aa614f49a5f941423"
   },
   {
-    "url": "assets/js/7.df19bcf3.js",
-    "revision": "0c5d1eaa054e2c9435607a5a69ef2102"
+    "url": "assets/js/7.11c627e0.js",
+    "revision": "53586fbbdefbb1f73950278970f0c91e"
   },
   {
-    "url": "assets/js/8.e8052382.js",
-    "revision": "4be527f7fd93f1845c98f22815871c02"
+    "url": "assets/js/8.22a1dc48.js",
+    "revision": "fdc1364173ad8af3433eb475ef3fb08b"
   },
   {
-    "url": "assets/js/9.e01d4f42.js",
-    "revision": "71904c69628799b5e33504ee27895300"
+    "url": "assets/js/9.9c0d48a1.js",
+    "revision": "437dc4d8c2a8b5505dca2d0ede797ce4"
   },
   {
-    "url": "assets/js/app.211bd989.js",
-    "revision": "0e9a9f2d23aed92d92f00105b9c37376"
+    "url": "assets/js/app.3e57a736.js",
+    "revision": "7fb48f4aa039fe08caf3f34f17e1a7c6"
   },
   {
     "url": "icon-192x192.png",
@@ -99,7 +103,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "7b25ff36d6468f8d6f4b95a123f65403"
+    "revision": "ebf2674725cbf7b7426cec91ab0ab439"
   },
   {
     "url": "蜡笔小新.jpeg",
